@@ -1,0 +1,86 @@
+*{
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+/* headar section start */
+.head-section{
+    background-color:#264653;
+}
+
+.header-p{
+    font-size: .875rem;
+    font-weight: 300;
+    color: #E0E0E0;
+}
+.header-h1{
+    font-size: 3rem;
+    font-weight: 600;
+}
+.purchase-btn{
+    background-color: #E76F51;
+    color: white;
+    padding: 10px 44px;
+    font-size: 1rem;
+    font-weight: 500;
+
+}
+
+
+.header-bike img{
+    width: 100%;
+   
+}
+
+
+.feateure-p{
+    color:#E76F51;
+    font-size: 0.875rem;
+    font-weight: 600;
+}
+
+.feture-bike{
+    width: 50%;
+}
+
+.gray-sc{
+    filter: grayscale(100%);
+}
+
+
+.bike-image{
+    padding: 20px;
+}
+
+.read-btn{
+    background-color: #E76F51;
+    color: white;
+    padding: 15px 30px;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.read-btn-light{
+    color: #E76F51;
+    border: 1px solid #E76F51;
+    padding: 15px 30px;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.read-btn-light:hover{
+    background-color: #E76F51;
+    color: white;
+    padding: 15px 30px;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.client-span{
+    color: #E76F51;
+    font-size: 3rem;
+    font-weight: 600;
+}
+
